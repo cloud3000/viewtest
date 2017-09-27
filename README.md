@@ -16,7 +16,7 @@ The error "lightbox" will not close, instead you must reload the page.
 
 Key Board FKEY's are not yet supported, click on the FKEY buttons works.
 
-Fixing these bugs is outide the scope of this test.
+Fixing these bugs is outside the scope of this test.
 
 # The goal here
 
@@ -40,14 +40,16 @@ Other FKEY's probably do nothing.
 
 # Files
 
-index.html		Main Page.
+index.html              Main Page.
 
-main.css		The main css file.
+main.css                The main css file.
 
-mcleod-reset.css	My preferred reset css file.
+mcleod-reset.css        My preferred reset css file.
 
-spec3000.js		Form (Formspec) JSON file.
+spec3000.js             Form (Formspec) JSON file.
 
-view3000.js		The view logic javascript file.
+view3000.js             The view logic javascript file.
+
+
 
 
